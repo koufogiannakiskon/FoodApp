@@ -6,6 +6,8 @@ Food App developed with React components.
 Preview:
 <img src="Foodapp.png" width=600px/>
 Things impemented:
-- Multiple React components.
-- Fetching data to firebase (available meals and orders).
-- Form with validation.
+<ul>
+<li>Multiple React components. </li>
+<li>Fetching data to firebase (available meals and orders).</li>
+<li>Form with validation.</li>
+</ul>
